@@ -1,6 +1,6 @@
-# Prewired workshops
+# Prewired workshop resources
 
-Materials for Prewired workshops:
+Resources for workshops for regular Prewired sessions and Prewired Online:
 
 * Ideas and projects -- see the [wiki](https://github.com/prewired/workshops/wiki)
 * Contributors and project leaders
